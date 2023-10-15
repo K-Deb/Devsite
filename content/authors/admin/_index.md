@@ -13,17 +13,17 @@ education:
     institution: Massachusetts Institute of Technology
     year: 2008
 email: ""
-first_name: Alice
+first_name: Debayan
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-last_name: Wu
+- Statistical Inference
+- Survival Analysis and Reliability Theory
+- Statistical Computation
+last_name: Koley
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Banaras Hindu University
+  url: https://www.bhu.ac.in/Site/Home/1_2_16_Main-Site
+role: Research Scholar, Department of Statistics
 social:
 - icon: envelope
   icon_pack: fas
@@ -49,7 +49,7 @@ social:
 status:
   icon: ☕️
 superuser: true
-title: Alice Wu 吳恩達
+title: Debayan Koley
 ---
 
 Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
