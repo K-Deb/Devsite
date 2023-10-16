@@ -34,7 +34,7 @@ social:
   icon: researchgate
   icon_pack: fab
   label: Find me on Researchgate
-  link: https://www.researchgate.net/
+  link: https://www.researchgate.net/profile/Debayan-Koley
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
