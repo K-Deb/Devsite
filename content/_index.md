@@ -43,7 +43,7 @@ sections:
 - block: features
   content:
     items:
-    - description: 90%
+    - description: Rstudio
       icon: r-project
       icon_pack: fab
       name: R
@@ -52,9 +52,9 @@ sections:
       icon_pack: fas
       name: Statistics
     - description: 10%
-      icon: camera-retro
-      icon_pack: fas
-      name: Photography
+      icon: overleaf
+      icon_pack: ai
+      name: overleaf
     title: Skills
 - block: experience
   content:
