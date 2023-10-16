@@ -30,7 +30,7 @@ social:
   icon_pack: fas
   link: /#contact
 - display:
-    header: true
+    header: false
   icon: researchgate
   icon_pack: fab
   label: Find me on Researchgate
