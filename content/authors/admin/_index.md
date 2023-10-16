@@ -3,21 +3,22 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  # - course: PhD in Artificial Intelligence
+  #   institution: Stanford University
+  #   year: 2012
+  - course: M.Sc. in Statistics
+    institution: Visva-Bharati University
+    year: 2020
+  - course: B.Sc.(Hon.) in Statistics
+    institution: Midnapore College (Autonomous), Vidyasagar University
+    year: 2018
 email: ""
 first_name: Debayan
 highlight_name: true
 interests:
 - Statistical Inference
-- Survival Analysis and Reliability Theory
+- Survival Analysis 
+- Reliability Theory
 - Statistical Computation
 last_name: Koley
 organizations:
@@ -30,19 +31,19 @@ social:
   link: /#contact
 - display:
     header: true
-  icon: twitter
+  icon: researchgate
   icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  label: Find me on Researchgate
+  link: https://www.researchgate.net/
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/K-Deb
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/debayan-koley-112743138/
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
