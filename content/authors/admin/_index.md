@@ -1,6 +1,6 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable
+#   matter.
 education:
   courses:
   # - course: PhD in Artificial Intelligence
@@ -12,7 +12,7 @@ education:
   - course: B.Sc.(Hon.) in Statistics
     institution: Midnapore College (Autonomous), Vidyasagar University
     year: 2018
-email: ""
+email: "devstat96@gmail.com"
 first_name: Debayan
 highlight_name: true
 interests:
@@ -50,7 +50,7 @@ social:
 status:
   icon: ☕️
 superuser: true
-title: Debayan Koley
+title: Debayan's Koley
 ---
 
 Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
