@@ -53,5 +53,5 @@ superuser: true
 title: Debayan Koley
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a research scholar at the Department of Statistics at Banaras Hindu University. My primary research interests include statistical inferences of lifetime models, analyzing censored data in survival and reliability studies, and Bayesian statistics. My secondary interests are statistical computations and exploring the potentials of open-source softwares like [R](https://www.r-project.org/) and [LaTeX](https://www.latex-project.org/). I also take a keen interest in collaborating on interdisciplinary statistical projects. 
 {style="text-align: justify;"}
