@@ -45,14 +45,22 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Debayan Koley. Made with '
+    notice: '© {year} Debayan Koley &middot; Made with passion <i class="fa-solid fa-fire-flame-curved" style="color:#e85d04"></i></a> using <a href="https://github.com/K-Deb/Devsite" target="_blank" rel="noopener">
+      <i class="fas fa-code-branch" style="color:#80b918"></i></a>, the
+    <a href="https://cran.r-project.org/" target="_blank" rel="noopener">
+      <i class="fab fa-r-project"></i> </a>
+    <a href="https://github.com/rstudio/blogdown" target="_blank" rel="noopener">blogdown</a> package, and the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.' 
     # notice: '© {year} Debayan Koley. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
+      
 
+    
 # Localization
 
 locale:
