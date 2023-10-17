@@ -1,6 +1,5 @@
 ---
-# bio: My research interests include distributed robotics, mobile computing and programmable
-#   matter.
+bio: My research interests include statistical computations, statistical inference and Bayesian statistics.
 education:
   courses:
   # - course: PhD in Artificial Intelligence

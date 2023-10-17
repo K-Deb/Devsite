@@ -43,11 +43,11 @@ sections:
 - block: features
   content:
     items:
-    - description: Rstudio
+    - description: Rstudio, Shiny, blogdown
       icon: r-project
       icon_pack: fab
       name: R
-    - description: 100%
+    - description: Statistical modelling, Applied Statistical Methods
       icon: chart-line
       icon_pack: fas
       name: Statistics
@@ -56,6 +56,9 @@ sections:
       icon_pack: ai
       name: overleaf
     title: Skills
+  design:
+    view: compact
+  id: skills
 - block: experience
   content:
     date_format: Jan 2006
@@ -234,15 +237,15 @@ sections:
       formspree:
         id: null
       netlify:
-        captcha: false
+        captcha: true
       provider: netlify
     # office_hours:
     # - Monday 10:00 to 13:00
     # - Wednesday 09:00 to 10:00
     # phone: 888 888 88 88
     subtitle: null
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis
-      ut magna et, vehicula efficitur enim.
+    # text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis
+    #   ut magna et, vehicula efficitur enim.
     title: Contact
   design:
     columns: "2"
