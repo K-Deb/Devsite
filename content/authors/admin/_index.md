@@ -26,9 +26,9 @@ organizations:
   url: https://www.bhu.ac.in/Site/Home/1_2_16_Main-Site
 role: Research Scholar, Department of Statistics
 social:
-- icon: envelope
-  icon_pack: fas
-  link: /#contact
+# - icon: envelope
+#   icon_pack: fas
+#   link: /#contact
 - display:
     header: false
   icon: researchgate
@@ -44,6 +44,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/debayan-koley-112743138/
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/my-orcid?orcid=0000-0001-7872-017X
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf

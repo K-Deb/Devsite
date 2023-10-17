@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  theme_day: Forest
   theme_night: minimal
-  font: minimal
+  font: Georgia
   font_size: L
 
 # SEO
@@ -45,7 +45,8 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Debayan Koley. This work is licensed under {license}'
+    notice: '© {year} Debayan Koley. Made with '
+    # notice: '© {year} Debayan Koley. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
