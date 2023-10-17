@@ -45,7 +45,7 @@ social:
   link: https://www.linkedin.com/in/debayan-koley-112743138/
 - icon: orcid
   icon_pack: fab
-  link: https://orcid.org/my-orcid?orcid=0000-0001-7872-017X
+  link: https://orcid.org/0000-0001-7872-017X
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
