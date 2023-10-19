@@ -20,7 +20,11 @@ main:
   - name: Conference
     parent: research
     url: research/conference/
-    weight: 30
+    weight: 10
+  - name: Workshop
+    parent: research
+    url: research/workshop/
+    weight: 20
   - name: Publications
     url: '#featured'
     weight: 50
