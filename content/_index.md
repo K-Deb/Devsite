@@ -245,7 +245,9 @@ sections:
     #   link: https://zoom.com
     #   name: Zoom Me
     # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-    email: devstat96@gmail.com
+    # email: devstat96@gmail.com
+    # email: debayanbw.3@gmail.com
+    email: deb.koley@bhu.ac.in
     form:
       formspree:
         id: null
@@ -259,6 +261,9 @@ sections:
     subtitle: null
     # text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis
     #   ut magna et, vehicula efficitur enim.
+    coordinates:
+      latitude: '25.269057591056313'
+      longitude: '82.99320737950393'
     title: Contact
   design:
     columns: "2"

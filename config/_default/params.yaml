@@ -105,7 +105,7 @@ features:
       index_name: ''
       show_logo: false
   map:
-    engine: 3 
+    provider: 'mapnik' 
     api_key: ''
     zoom: 15
 
