@@ -17,13 +17,13 @@ main:
     identifier: research
     # url: '#conferences'
     weight: 40
-  - name: Conference
+  - name: Conference and Workshops
     parent: research
     url: research/conference/
     weight: 10
-  - name: Workshop
+  - name: Publications
     parent: research
-    url: research/workshop/
+    url: research/publication/
     weight: 20
   - name: Publications
     url: '#featured'
